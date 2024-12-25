@@ -46,5 +46,5 @@ Bachelor’s Degree in Computer Science (Jul 2022 - Jul 2025)
 - Introduction to Basic Game Development using Scratch - Coursera (May 2024)
 ## Contact
 - LinkedIn: www.linkedin.com/in/adityawagh02
-- Email: antismartdevil@gmail.com
+- Email: adityawaghgames@gmail.com
 - Phone: 7045549172
