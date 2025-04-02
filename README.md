@@ -7,7 +7,7 @@ I’m excited about leveraging my technical skills in programming and game desig
 
 In my free time, I enjoy exploring new game mechanics, designing levels, and creating interactive narratives for future games.
 
-My CV in [[PDF](https://github.com/AntismartDevil/Aditya_Wagh_Portfolio/blob/main/Aditya_Wagh_Game_Designer_CV.pdf)]
+My CV in [[PDF](https://github.com/AntismartDevil/Aditya_Wagh_Portfolio/blob/main/Aditya_Wagh_CV.pdf)]
 
 This repository showcases my skills, projects, and my journey in game design and development.
 
